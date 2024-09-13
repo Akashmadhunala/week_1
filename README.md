@@ -10,6 +10,7 @@ Author : Madhunala Akash
 
 ![Trending](https://github.com/user-attachments/assets/c29f03cc-8080-43ba-baca-a7c613ff7c99)
 
+
 ## **Movie Explorer - Static Website**
 
 This project is a simple static website consisting of multiple HTML pages linked together with a consistent layout using CSS for styling. The website uses JavaScript to fetch data from a public API and display it on a web page.
