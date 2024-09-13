@@ -1,8 +1,14 @@
 # week_1
-WEEK-1 ASSIGNMENT : creating a simple static website and making use of API requests with js along with version control using git.
+WEEK-1 ASSIGNMENT : creating a simple static website and making use of API requests with js along with version control using git.<br>
 Author : Madhunala Akash
 
+![index](https://github.com/user-attachments/assets/557bf35d-a785-463b-a3f3-52c784976a4c)
 
+![About](https://github.com/user-attachments/assets/6309a66d-cc35-4d32-8b43-be921f1753c1)
+
+![Search_Movies](https://github.com/user-attachments/assets/f1347084-2dc9-4ed2-8c22-3e4221d5bf04)
+
+![Trending](https://github.com/user-attachments/assets/c29f03cc-8080-43ba-baca-a7c613ff7c99)
 
 ## **Movie Explorer - Static Website**
 
